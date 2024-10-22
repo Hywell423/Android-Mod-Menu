@@ -16,15 +16,15 @@ We are not babysitters for naive, lazy, pathetic children... Grow up. Read and l
 # Getting started
 
 1. Installation
-    * [PC](Installation-(PC))
-    * [Android](Installation-(Android))
+    * [PC](Installation (PC))
+    * [Android](Installation (Android))
 2. [Usage](Usage)
 3. Making changes to the APK
-    * [PC](Making-changes-to-the-APK-(PC))
-    * [Android](Making-changes-to-the-APK-(Android))
+    * [PC](Making changes to the APK (PC))
+    * [Android](Making changes to the APK (Android))
 4. Troubleshooting
-    * [PC](Troubleshooting-(PC))
-    * [Android](Troubleshooting-(Android))
+    * [PC](Troubleshooting (PC))
+    * [Android](Troubleshooting (Android))
 
 # Video tutorial
 
